@@ -72,8 +72,9 @@ Notes
 
 Run the command
 
-```bash   leo run operations < inputs/calculator.in   ```
-
+```bash 
+leo run operations < inputs/calculator.in
+```
 
 If the output is like below
 
