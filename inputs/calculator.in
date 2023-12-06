@@ -1,0 +1,4 @@
+// The program input for calculator/src/main.leo
+[operations]
+public a: u32 = 10u32;
+b: u32 = 5u32;
